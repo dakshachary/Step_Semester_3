@@ -1,2 +1,2 @@
 # Step_Semester_3
-Step sem 3 repo
+Repository for the JAVA problems assigned in Step Program 2026
